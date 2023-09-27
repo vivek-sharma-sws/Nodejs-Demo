@@ -1,0 +1,8 @@
+{
+    "OK": "Success",
+	"UNAUTHORIZED": "user Unauthorized",
+	"NOT_FOUND": "Not Found",
+	"INTERNAL_SERVER_ERROR": "Internal Server Error",
+    "MISSING_FIELDS": "Fill All Required Fields",
+    "SOMETHING_WRONG":"Something went wrong"
+}
